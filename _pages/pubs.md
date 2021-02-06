@@ -25,13 +25,13 @@ I also wrote the bulk of the language user's guide and reference manual.
 
 I developed the first version of our automatic differentiation library, which I documented here;  it's come a long way since then.
 
-* Carpenter, B., Hoffman, M.D., Brubaker, M., Lee, D., Li, P. and Betancourt, M. 2015. The Stan math library: Reverse-mode automatic differentiation in C++. *arXiv* 1509.07164.
+* Carpenter, B., Hoffman, M.D., Brubaker, M., Lee, D., Li, P. and Betancourt, M. 2015. [The Stan Math Library: Reverse-mode automatic differentiation in C++](https://arxiv.org/abs/1509.07164). *arXiv* 1509.07164.
 
 ## Bayesian Methodology
 
 This paper gathers a bunch of thoughts on how we actually fit models; we have a contract to turn this into an open-access book with CRC.
 
-* Gelman, A., Vehtari, A., Simpson, D., Margossian, C.C., Carpenter, B., Yao, Y., Kennedy, L., Gabry, J., Bürkner, P.C. and Modrák, M., 2020. Bayesian workflow. *arXiv* 2011.01808.
+* Gelman, A., Vehtari, A., Simpson, D., Margossian, C.C., Carpenter, B., Yao, Y., Kennedy, L., Gabry, J., Bürkner, P.C. and Modrák, M., 2020. [Bayesian workflow.](https://arxiv.org/abs/2011.01808) *arXiv* 2011.01808.
 
 ## Applied Statistics
 
@@ -48,15 +48,15 @@ I've spent a lot of time thinking about crowdsourced and "expert" data coding/la
 
 My very first paper was built up my fixing the typed data structures in Gazard et al.'s book.
 
-* Gazdar, G., Pullum, G.K., Carpenter, R., Hukari, T.E. and Levine, R.D. 1988. Category structures. *Computational Linguistics* 14(1).
+* Gazdar, G., Pullum, G.K., Carpenter, R., Hukari, T.E. and Levine, R.D. 1988. [Category structures.](https://www.aclweb.org/anthology/J88-1001/) *Computational Linguistics* 14(1).
 
 I kept at data structures for linguistics, eventually writing a whole book treating them as base types for logic programs.
 
-* Carpenter, B., 2005. *The Logic of Typed Feature Structures: with Applications to Unification Grammars, Logic Programs and Constraint Resolution.* Cambridge University Press.
+* Carpenter, B., 2005. [*The Logic of Typed Feature Structures: with Applications to Unification Grammars, Logic Programs and Constraint Resolution.*](https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521419328) Cambridge University Press.
 
 I worked on type theory, linear logic, and categorial grammars, which I brought together in this mongraph.
 
-* Carpenter, B. 1997. *Type-Logical Semantics.* MIT press. 
+* Carpenter, B. 1997. [*Type-Logical Semantics.*](https://www.amazon.com/Type-Logical-Semantics-Language-Speech-Communication-dp-0262531496/dp/0262531496/ref=mt_other?_encoding=UTF8&me=&qid=1612655482) MIT Press. 
 
 
 
