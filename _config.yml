@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bob Carpenter"
   avatar           : "carp.jpg"
-  bio              : "Computational statistician, computational linguist, semanticist"
+  bio              : "Senior Research Scientist, Center for Computational Mathematics, Flatiron Institute"
   location         : "New York City"
   employer         :
   pubmed           : "" # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "" # "http://orcid.org/yourorcidurl"
+  orcid            : # "" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
