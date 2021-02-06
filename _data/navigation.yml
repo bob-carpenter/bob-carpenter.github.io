@@ -1,13 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /pubs/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Software"
+    url: /software/    
     
   - title: "CV"
     url: /cv/
