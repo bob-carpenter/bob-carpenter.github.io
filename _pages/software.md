@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have been writing open-source software since before web browsers were available.  Here are some projects that still have useful code.  
-
+Here are some projects that still have useful code.
 
 ## Stan
 
@@ -23,7 +22,7 @@ The language code has been completely rewritten from scratch in OCaml.
 
 ## pyAnno
 
-Lightweight Python package implementing expectation-maximization estimation for Dawid and Skene's model fo noisy data annotation.  BSD-2 licensed.spee
+Lightweight Python package implementing expectation-maximization for MAP estimation of Dawid and Skene's model of crowdsourced data annotation extended with priors.  BSD-2 licensed.
 
 * [PyAnno](https://pypi.org/project/pyanno/)
 
@@ -39,7 +38,7 @@ LingPipe is a Java API for natural language processing applications.  It does L1
 I wrote pretty much all of this while working at Alias-i.  It had a non-standard AGPL-like license before switcing to AGPL.
 
 
-## Attribute Logic Engine
+## Attribute Logic Engine (ALE)
 
 The Attribute Logic Engine was written in support of my [book on typed feature structures]( https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521022541).  It is a logic programming, constraint satisfaction, and unification-grammar parser with typed feature structures.  Coded in Prolog and distributed as freeware.
 
