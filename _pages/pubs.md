@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See
-[my Google Scholar page](https://scholar.google.com/citations?user=kPtKWAwAAAAJ&hl=en)
-for a full list of publications.
+For a full list, see [my Google Scholar page](https://scholar.google.com/citations?user=kPtKWAwAAAAJ&hl=en).
 
 ## Stan
 
@@ -29,7 +27,7 @@ I developed the first version of our automatic differentiation library, which I 
 
 ## Bayesian Methodology
 
-This paper gathers a bunch of thoughts on how we actually fit models; we have a contract to turn this into an open-access book with CRC.
+This paper gathers a bunch of thoughts on how we actually do Bayesian data analysis and predictive inference; we have a contract to turn this into an open-access book with CRC.
 
 * Gelman, A., Vehtari, A., Simpson, D., Margossian, C.C., Carpenter, B., Yao, Y., Kennedy, L., Gabry, J., Bürkner, P.C. and Modrák, M., 2020. [Bayesian workflow.](https://arxiv.org/abs/2011.01808) *arXiv* 2011.01808.
 

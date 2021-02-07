@@ -31,22 +31,22 @@ I wrote the inference code and then Enthought did the package wrapper and now ma
 
 ## LingPipe
 
-LingPipe is a Java API for natural language processing applications.  It does L1-regularized classifctaion with general priors and stochastic gradient descent, sequence models with HMMs and conditional random fields, clustering with Gibbs-sampled LDA and expectation maximization K-means, sequence chunking named-entity detection and Chinese word segmentation, noisy channel spelling correction, and token-level and character-level language modeling.  There's thorough documentation and a wide range of tutorials with applications in multiple languages.  Designed to run on the server side.  Deployed to back a wide range of commercial applications.  AGPL licensed.
+LingPipe is a server-side Java API for multilingual natural language processing applications.  It fits MAP estimates for L1-regularized classification and conditional random fields with L1, L2, and mixed penalties with stochastic gradient descent.  It also supports HMMs, hierarchical, K-means, and LDA clustering, sequence chunking for named entity extraction and Chinese word segmenation, noisy channel spelling correction, and token- and character-level language modeling.  AGPL licensed.
 
 * [LingPipe](http://www.alias-i.com/lingpipe/)
 
-I wrote pretty much all of this while working at Alias-i.  It had a non-standard AGPL-like license before switcing to AGPL.
+I wrote pretty much all of this while working at Alias-i, because of its non-standard AGPL-like license. 
 
 
 ## Attribute Logic Engine (ALE)
 
-The Attribute Logic Engine was written in support of my [book on typed feature structures]( https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521022541).  It is a logic programming, constraint satisfaction, and unification-grammar parser with typed feature structures.  Coded in Prolog and distributed as freeware.
+The Attribute Logic Engine was written in support of my [book on typed feature structures]( https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521022541).  It provides is a logic programming language, constraint solver and unification grammar backed by inheritance-based structure types.  Coded in Prolog and distributed as freeware.
 
 * [ALE](http://www.cs.toronto.edu/~gpenn/ale.html)
 
-I wrote the prototype version and the first manual, then Gerald Penn took it over, extended it, and maintained it.
+I wrote the prototype version and the first manual.
 
 
 ## Older projects
 
-My first memory of open-source software was sharing Prolog parsers for Lambek-style categrorial grammars.  I once distributed a Prolog-backed CGI gateway along with a parser for my second book that converted input to LaTeX output and rendered it;  someone in the Netherlands maintained it long after I'd left the field.
+In the early 2000s at SpeechWorks, I worked on open speech interface standards and distributed VoiceXML-backed games.  As a professor in the 1990s, I distributed Prolog code for my computational linguistics classes.  In grad school in the mid-1980s, we shared backtracking categorial grammar parsers in Prolog and chart parsers in Lisp via FTP.  I built an [arithmetic coder in Java](https://github.com/bob-carpenter/java-arithcode) using PPM compression (based on C code by Radford Neal) so I could show prospective employers code after working on proprietary speech recognizers at SpeechWorks.  After a short plane ride on which I solved my first Sudoku by hand, I wrote and distributed [a backtracking Sudoku solver in Java](https://github.com/bob-carpenter/java-sudoku).
