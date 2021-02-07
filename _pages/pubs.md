@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /pubs/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -44,7 +42,7 @@ I've spent a lot of time thinking about crowdsourced and "expert" data coding/la
 
 ## Natural language and programming languages
 
-My very first paper was built up my fixing the typed data structures in Gazard et al.'s book.
+My very first paper was built up my fixing the typed data structures in Gazdar et al.'s book.
 
 * Gazdar, G., Pullum, G.K., Carpenter, R., Hukari, T.E. and Levine, R.D. 1988. [Category structures.](https://www.aclweb.org/anthology/J88-1001/) *Computational Linguistics* 14(1).
 
@@ -52,7 +50,7 @@ I kept at data structures for linguistics, eventually writing a whole book treat
 
 * Carpenter, B., 2005. [*The Logic of Typed Feature Structures: with Applications to Unification Grammars, Logic Programs and Constraint Resolution.*](https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521419328) Cambridge University Press.
 
-I worked on type theory, linear logic, and categorial grammars, which I brought together in this mongraph.
+I worked on type theory, linear logic, and categorial grammars, which I brought together in this monograph.
 
 * Carpenter, B. 1997. [*Type-Logical Semantics.*](https://www.amazon.com/Type-Logical-Semantics-Language-Speech-Communication-dp-0262531496/dp/0262531496/ref=mt_other?_encoding=UTF8&me=&qid=1612655482) MIT Press. 
 
