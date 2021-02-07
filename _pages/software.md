@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-I have been writing open-source software since before the world-wide
-web.  
+I have been writing open-source software since before web browsers were available.  Here are some projects that still have useful code.  
+
 
 ## Stan
 
@@ -21,7 +21,7 @@ Stan is a probabilistic programming language that lets users define a probabilis
 I was the co-founder of the project and designer of the probabilistic programming language and automatic differentiation library.  I've also written most of the language documentation.  By version 1.0, we had seven developers, and we now have more than forty.
 The language code has been completely rewritten from scratch in OCaml.
 
-## pyAnno (2008)
+## pyAnno
 
 Lightweight Python package implementing expectation-maximization estimation for Dawid and Skene's model fo noisy data annotation.  BSD-2 licensed.spee
 
@@ -30,7 +30,7 @@ Lightweight Python package implementing expectation-maximization estimation for 
 I wrote the inference code and then Enthought did the package wrapper and now maintain it.
 
 
-## LingPipe (2003--2010)
+## LingPipe
 
 LingPipe is a Java API for natural language processing applications.  It does L1-regularized classifctaion with general priors and stochastic gradient descent, sequence models with HMMs and conditional random fields, clustering with Gibbs-sampled LDA and expectation maximization K-means, sequence chunking named-entity detection and Chinese word segmentation, noisy channel spelling correction, and token-level and character-level language modeling.  There's thorough documentation and a wide range of tutorials with applications in multiple languages.  Designed to run on the server side.  Deployed to back a wide range of commercial applications.  AGPL licensed.
 
@@ -39,7 +39,7 @@ LingPipe is a Java API for natural language processing applications.  It does L1
 I wrote pretty much all of this while working at Alias-i.  It had a non-standard AGPL-like license before switcing to AGPL.
 
 
-## Attribute Logic Engine (1992--2003)
+## Attribute Logic Engine
 
 The Attribute Logic Engine was written in support of my [book on typed feature structures]( https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521022541).  It is a logic programming, constraint satisfaction, and unification-grammar parser with typed feature structures.  Coded in Prolog and distributed as freeware.
 
@@ -47,3 +47,7 @@ The Attribute Logic Engine was written in support of my [book on typed feature s
 
 I wrote the prototype version and the first manual, then Gerald Penn took it over, extended it, and maintained it.
 
+
+## Older projects
+
+My first memory of open-source software was sharing Prolog parsers for Lambek-style categrorial grammars.  I once distributed a Prolog-backed CGI gateway along with a parser for my second book that converted input to LaTeX output and rendered it;  someone in the Netherlands maintained it long after I'd left the field.
