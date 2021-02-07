@@ -11,49 +11,49 @@ redirect_from:
 
 ## Education
 
-* 1989. Ph.D., University of Edinburgh, cognitive science and computer science
-Edinburgh
-* 1984. B.S., Michigan State University, math
+* &nbsp;1989. *Ph.D., University of Edinburgh.*  Cognitive Science and
+Computer Science.
+* &nbsp;1984. *B.S., Michigan State University.* Math.
 
 
 ## Positions
 
-* 1988–1996. Associate Professor.  Carnegie Mellon University, Philosophy Department.
-Linguistics and natural language processing
-* 1996–2000. Member of Technical Staff. Bell Laboratories, Multimedia
-Research Lab
-* 2000–2002. Software Developer, Research scientist.  SpeechWorks
-* 2002–2011. Software Developer, Research scientist. Alias-i (LingPipe)
-* 2011–2020.  Research Scientist. Columbia University, Statistics.
-* 2020–now. Senior Research Scientist. Flatiron Institute, Center for
-  Computational Mathematics.
+* 2020–now. *Senior Research Scientist. Flatiron Institute.* Center for
+  Computational Mathematics.  Computational statistics
+* 2011–2020.  *Research Scientist. Columbia University.* Statistics Department.
+* 2002–2011. *Software Developer, Research Scientist.* Alias-i (LingPipe).
+* 2000–2002. *Software Developer. SpeechWorks.*
+* 1996–2000. *Member of Technical Staff. Bell Laboratories.* Multimedia
+Research Lab.
+* 1988–1996. *Associate Professor.  Carnegie Mellon
+  University.*  Philosophy Department.
 
 
 ## Fundraising
-* 2019–2020. $500K. PI. Schmidt Futures Innovation Fellow.
-* 2019–2022. $630K. Co-PI.  National Science Foundation. RIDIR: Tool for Poststratification and Small-Area Estimation for Survey Data
-* 2019–2020. $360K. Co-PI. Alfred P. Sloan Foundation. Econometric Modeling with Stan for Causality and Differential Equilibrium
-* 2017–2020. $980K. Co-PI. National Science Foundation.  CRI:Sustain Stan for the
-  Long Run.
-* 2017–2019. $750K. Co-PI. Office of Naval Research. STTR Phase II: Fast and Flexible Differential Equation Model Fitting.
-* 2016–2017. $80K. Co-PI. Office of Naval Research. STTR Phase I: Fast
-  and Flexible Differential Equation Model Fitting with Applications to Pharmacometrics.
-* 2015–2018. $600K. Co-PI.  Alfred P. Sloan Foundation. Sustaining and Growing the Stan Community
-* 2014–2016. $200K. Co-PI. National Science Foundation.  EAGER: Advanced Machine Learning for Prediction of Preterm Birth.
-* 2014–2017. $750K. Co-PI. Institute of Educational Sciences. Solving
-Difficult Bayesian Computation Problems in Education Research Using Stan.
-* 2012–2015. $500K. Co-PI. National Science Foundation. CRI:New Stan: Scalable Software for Bayesian Modeling.
-* 2006–2008. $750K. National Institutes of Health.  Phase II SBIR: Resolving Biological Entity References.
-* 2004–2006. $400K. National Institutes of Health. Phase I SBIR:
-Resolving Biological Entity References.
+* 2019–2020. $500K. PI. *Schmidt Futures. Innovation Fellow.*
+* 2019–2022. $630K. Co-PI.  *National Science Foundation. RIDIR: Tool for Poststratification and Small-Area Estimation for Survey Data.
+* 2019–2020. $360K. Co-PI. *Alfred P. Sloan Foundation. Econometric Modeling with Stan for Causality and Differential Equilibrium.*
+* 2017–2020. $980K. Co-PI. *National Science Foundation. CRI:Sustain Stan for the
+  Long Run.*
+* 2017–2019. $750K. Co-PI. *Office of Naval Research. STTR Phase II: Fast and Flexible Differential Equation Model Fitting.*
+* 2016–2017. $80K. Co-PI. *Office of Naval Research. STTR Phase I: Fast
+  and Flexible Differential Equation Model Fitting with Applications to Pharmacometrics.*
+* 2015–2018. $600K. Co-PI. *Alfred P. Sloan Foundation. Sustaining and Growing the Stan Community.*
+* 2014–2016. $200K. Co-PI. *National Science Foundation.  EAGER: Advanced Machine Learning for Prediction of Preterm Birth.*
+* 2014–2017. $750K. Co-PI. *Institute of Educational Sciences. Solving
+Difficult Bayesian Computation Problems in Education Research Using Stan.*
+* 2012–2015. $500K. Co-PI. *National Science Foundation. CRI:New Stan: Scalable Software for Bayesian Modeling.*
+* 2006–2008. $750K. *National Institutes of Health.  Phase II SBIR: Resolving Biological Entity References.*
+* 2004–2006. $400K. *National Institutes of Health. Phase I SBIR:
+Resolving Biological Entity References.*
 
 ## Software
 
-Please see [../software/](my open source software page).
+Please see [my open source software page](../software/).
 
 ## Publications
 
-Please see [../pubs/](my publications page).
+Please see [my publications page](../pubs/)
 
 ## Postdocs and Interns
 
