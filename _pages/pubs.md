@@ -17,11 +17,11 @@ I'm best known for Stan.  This is the top-level systems overview paper.
 
 * Carpenter B, Gelman A, Hoffman MD, Lee D, Goodrich B, Betancourt M, Brubaker M, Guo J, Li P, Riddell A. 2017.  [Stan: A Probabilistic Programming Language.](https://www.jstatsoft.org/article/view/v076i01) *Journal of Statistical Software.* 2017 76(1).
 
-I also wrote the bulk of the language user's guide and reference manual.
+I also wrote the bulk of the language documentation.
 
-* Stan Development Team. 2021. [*Stan Language User's Guide.*](https://mc-stan.org/docs/stan-users-guide/index.html) [*Stan Language Reference Manual.*](https://mc-stan.org/docs/reference-manual/index.html)
+* Stan Development Team. 2021. [*Stan Language User's Guide*](https://mc-stan.org/docs/stan-users-guide/index.html) and [*Stan Language Reference Manual*](https://mc-stan.org/docs/reference-manual/index.html) and [*Stan Functions Reference*](https://mc-stan.org/docs/functions-reference/index.html).
 
-I developed the first version of our automatic differentiation library, which I documented here;  it's come a long way since then.
+I developed the first version of our automatic differentiation library; it came a long way before this paper, and has come a long way since.
 
 * Carpenter, B., Hoffman, M.D., Brubaker, M., Lee, D., Li, P. and Betancourt, M. 2015. [The Stan Math Library: Reverse-mode automatic differentiation in C++](https://arxiv.org/abs/1509.07164). *arXiv* 1509.07164.
 
