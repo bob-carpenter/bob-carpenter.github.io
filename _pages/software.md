@@ -9,5 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Open-Source Software
-======
+I have been writing open-source software since before the world-wide
+web.  
+
+## Stan
+
+Stan is a probabilistic programming language that lets users define a probabilistic model, translates it to C++, then performs Bayesian inference with Markov chain Monte Carlo, automatic differentiation variational inference, or Laplace approximations.  Stan is used across the physical, biological, and social sciences, as well as in finance, government, medicine, policy, and leisure.  It runs on all platforms and has interfaces in R, Python, Julia, MATLAB, and Mathematica.  BSD-3 licensed.
+
+* [Stan](https://mc-stan.org)
+
+I was the co-founder of the project and designer of the probabilistic programming language and math library.  I've also written most of the language documentation.  There's now a team of over 40 developers and the language code has been completely rewritten from scratch in OCaml.
+
+## pyAnno (2008)
+
+Lightweight Python package implementing expectation-maximization estimation for Dawid and Skene's model fo noisy data annotation.  BSD-2 licensed.spee
+
+* [PyAnno](https://pypi.org/project/pyanno/)
+
+I wrote the inference code.
+
+
+## LingPipe (2003--2010)
+
+LingPipe is a Java API for natural language processing applications.  It does L1-regularized classifctaion with general priors and stochastic gradient descent, sequence models with HMMs and conditional random fields, clustering with LDA and K-means, named-entity detection, spelling, correction, Chinese word segmentation, and language modeling.  There's thorough documentation and a wide range of tutorials with applications in multiple languages.  AGPL licensed.
+
+* [LingPipe](http://www.alias-i.com/lingpipe/)
+
+I wrote pretty much all of this while working at Alias-i.  It had a non-standard AGPL-like license before switcing to AGPL.
+
+
+## Attribute Logic Engine (1992--2003)
+
+The Attribute Logic Engine was written in support of my [book on typed feature structures]( https://www.amazon.com/Logic-Typed-Feature-Structures-Applications/dp/0521022541).  It is a logic programming, constraint satisfaction, and unification-grammar parser with typed feature structures.  Coded in Prolog and distributed as freeware.
+
+* [ALE](http://www.cs.toronto.edu/~gpenn/ale.html)
+
+I wrote the prototype version and the first manual, then Gerald Penn took it over, extended it, and maintained it.
+
