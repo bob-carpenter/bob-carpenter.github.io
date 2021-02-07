@@ -71,7 +71,8 @@ I enjoy teaching.  I taught two classes per semester in natural
 language processing, computability and automata theory,
 psycholinguistics, semantics, and the philosophy of language during
 the eight years I was at Carnegie Mellon.  I've taught numerous summer
-school courses and short courses.
+school courses and short courses.  I'm currently managing a Bayesian
+reading group that feels very much like a graduate seminar.
 
 ## Invited Talks
 
@@ -81,7 +82,7 @@ teaching.  Please contact me if you'd like me to give a talk.
 
 ## Service
 
-In addition to reviewing for open-access no-fee publications, I once
-served on the editorial board for *Computational Linguistics*.
-Nowadays, my service is largely in the form of code reviewing and
-hiring. 
+In addition to reviewing for open-access no-fee conferences and
+journals, I once served on the editorial board for *Computational
+Linguistics*.  Nowadays, my service is largely in the form of code
+reviewing and departmental committees.
