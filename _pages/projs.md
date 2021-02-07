@@ -12,15 +12,6 @@ involved in one of these projects or have another project in mind,
 please let me know.
 
 
-## Algorithms
-
-### Pathfinder
-
-Find good first initial draw using optimization.  With Lu Zhang, Ben
-Bales, and Andrew Gelman (Columibia), Aki Vehtari (Aalto).
-
-
-
 ## Stan
 
 My main project is Stan, where I'm primarily involved with the
@@ -43,7 +34,7 @@ language design and automatic differentiation library.
 
 * *Pathfinder* (with Lu Zhang, Ben Bales, Andrew Gelman, Aki Vehtari):
   parallel burn-in to find first reasonable draw;  stacks with 
-  parallel covariance adaptation (Ben Bales, Yi Zhang) and embarassingly parallel
+  parallel covariance adaptation (Ben Bales, Yi Zhang) and embarrassingly parallel
   MCMC 
 
 * *Hamiltonian integrators* for stiff and oscillatory Hamiltonians (with Chirag Modi,
@@ -59,7 +50,7 @@ expose FFT, asymmetric eigenvalues as functions
 
 * *Automatic differentiation testing*: automate to higher tolerance (with Adam Huber)
 
-* *PosteriorDB*: scale database of refernece posteriors; write-up
+* *PosteriorDB*: scale database of reference posteriors; write-up
   application methodology (with Måns Magnusson, Aki Vehtari)
 
 ### Documentation
@@ -95,9 +86,6 @@ checkpointing
   Margossian)
 
 
-
-
-
 ## Applied Statistics
 
 * *Genomics: differential expression*: multilevel Bayesian
@@ -117,7 +105,7 @@ parameterizing general function fitting (with Philip Greengard)
   to account for item difficulty and multivariate responses (I've
   worked on this problem with many people over time including
   Breck Baldwin, Mitzi Morris, Becky Passonneau, Massimo Poesio, and
-  Silviu Paun) including everyting from statistical inference to
+  Silviu Paun) including everything from statistical inference to
   tag-a-little/learn-a-little interactive interfaces.
 
 * *Soil carbon modeling*: continuing work on compartmental ODEs for
