@@ -18,7 +18,8 @@ Stan is a probabilistic programming language that lets users define a probabilis
 
 * [Stan](https://mc-stan.org)
 
-I was the co-founder of the project and designer of the probabilistic programming language and math library.  I've also written most of the language documentation.  There's now a team of over 40 developers and the language code has been completely rewritten from scratch in OCaml.
+I was the co-founder of the project and designer of the probabilistic programming language and automatic differentiation library.  I've also written most of the language documentation.  By version 1.0, we had seven developers, and we now have more than forty.
+The language code has been completely rewritten from scratch in OCaml.
 
 ## pyAnno (2008)
 
@@ -26,12 +27,12 @@ Lightweight Python package implementing expectation-maximization estimation for 
 
 * [PyAnno](https://pypi.org/project/pyanno/)
 
-I wrote the inference code.
+I wrote the inference code and then Enthought did the package wrapper and now maintain it.
 
 
 ## LingPipe (2003--2010)
 
-LingPipe is a Java API for natural language processing applications.  It does L1-regularized classifctaion with general priors and stochastic gradient descent, sequence models with HMMs and conditional random fields, clustering with LDA and K-means, named-entity detection, spelling, correction, Chinese word segmentation, and language modeling.  There's thorough documentation and a wide range of tutorials with applications in multiple languages.  AGPL licensed.
+LingPipe is a Java API for natural language processing applications.  It does L1-regularized classifctaion with general priors and stochastic gradient descent, sequence models with HMMs and conditional random fields, clustering with Gibbs-sampled LDA and expectation maximization K-means, sequence chunking named-entity detection and Chinese word segmentation, noisy channel spelling correction, and token-level and character-level language modeling.  There's thorough documentation and a wide range of tutorials with applications in multiple languages.  Designed to run on the server side.  Deployed to back a wide range of commercial applications.  AGPL licensed.
 
 * [LingPipe](http://www.alias-i.com/lingpipe/)
 
