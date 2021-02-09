@@ -11,44 +11,54 @@ Almost all of my projects are cooperative;  if you'd like to get
 involved in one of these projects or have another project in mind,
 please let me know.
 
+## Algorithms
+
+My main research is in algorithms.
+
+* Parallel Hamiltonian Monte Carlo
+    * *Pathfinder*: parallel algorithm to find first reasonable draw;
+      with Lu Zhang, Ben Bales, Aki Vehtari, Andrew Gelman
+    * *parallel covariance adaptation*: needs engineering for Stan; led by Ben Bales, Yi Zhang
+	* *embarrassingly parallel MCMC*: needs to be engineered and
+      evaluated on actual hardware
+
+* *Hamiltonian integrators* for stiff and oscillatory Hamiltonians; with Chirag Modi,
+  Alex Barnett
+
 
 ## Stan
 
-My main project is Stan, where I'm primarily involved with the
+My main development project is Stan, where I'm primarily involved with the
 language design and automatic differentiation library.
 
 ### Language design
 
-* *Language constructs*: tuples and structs (with Ryan Bernstein); complex numbers,
-  arithmetic, matrices, and functions (with Steve Bronder, completed
-  math library last year); first-class functions and closures (with
-  Niiko Huure); immutable matrices (with Steve Bronder, Rok Češnovar,
-  Tadej Ciglarič); stacked bijectors; ragged arrays; comprehensions;
-  covariant containers
+* *Language constructs*
+    * tuples and structs: design complete, prototyped; with Ryan Bernstein
+    * complex numbers, arithmetic, matrices, and functions: prototyped
+	but needs final design; with Steve Bronder, completed
+math library last year)
+    * first-class functions and closures; prototyped; with Niiko Huure
+	* immutable matrices: pro-typed; with Steve Bronder, Rok Češnovar, Tadej Ciglarič
+	* stacked bijectors: design complete
+	* ragged arrays: design complete
+	* covariant containers: design complete
+	* comprehensions: awaiting design
 
-* *Formal specification and verification* (with Ryan Bernstein,
-  Matthijs Vákár, Maria Gorinova, Jean-Baptiste Tristan, Brian Ward):
-  operational semantics and verified parser
+* *Formal specification and verification*
+    * Stan language operational semantics: core drafted; with Ryan Bernstein,
+	Matthijs Vákár, Maria Gorinova
+	* Stan language verification: pro-typed; only tangentially involved
+  Jean-Baptiste Tristan, Brian Ward
 
-### Algorithms
-
-* *Pathfinder* (with Lu Zhang, Ben Bales, Andrew Gelman, Aki Vehtari):
-  parallel burn-in to find first reasonable draw;  stacks with 
-  parallel covariance adaptation (Ben Bales, Yi Zhang) and embarrassingly parallel
-  MCMC 
-
-* *Hamiltonian integrators* for stiff and oscillatory Hamiltonians (with Chirag Modi,
-  Alex Barnett)---looking into variable stepsize leapfrog and implicit
-  midpoint to start
-
-### Math library
+### Automatic differentiation library
 
 * *Complex numbers*: complex/primitive mixed matrix operations (with Steve Bronder);
 expose FFT, asymmetric eigenvalues as functions
 
-### Testing
-
 * *Automatic differentiation testing*: automate to higher tolerance (with Adam Huber)
+
+### Testing
 
 * *PosteriorDB*: scale database of reference posteriors; write-up
   application methodology (with Måns Magnusson, Aki Vehtari)
@@ -56,13 +66,14 @@ expose FFT, asymmetric eigenvalues as functions
 ### Documentation
 
 * *User's Guide*: bring up to best practices for Stan 3.0
+* *Gentle introduction to Stan*: needs to be written
 
 ### Interfaces
 
 * *Stan IDE*: visual environment for running Stan programs and
 monitoring their progress---auto-adaptation convergence, auto
 effective sample size targets, visual progress monitoring and
-checkpointing
+checkpointing; needs design and evaluation
 
 
 ## Books
@@ -88,25 +99,26 @@ checkpointing
 
 ## Applied Statistics
 
-* *Genomics: differential expression*: multilevel Bayesian
-differential isoform expression with replication (with Shuonan Chen,
-Chaolin Zhang); K-mer based gene expression from RNA-seq data without
-alignment or assignment (prototype stage)
+* *Genomics: differential expression*
+    * *multilevel Bayesian differential isoform expression with
+      replication*;  with Shuonan Chen, Chaolin Zhang;
+	* *K-mer based gene expression from RNA-seq data without
+alignment or assignment*; designed, prototype begun
 
-* *Covid prevalence*: working with UK Biosecurity Centre to monitor
+* *UK Covid biosurveillance*: working with UK Biosecurity Centre to monitor
   prevalence over time and location and adjust for non-random testing
-  sample (with Tom Ward, Alexander Johnsen, Andrew Gelman, Mitzi
-  Morris)
+  sample; with Tom Ward, Alexander Johnsen, Andrew Gelman, Mitzi
+  Morris
 
 * *Multilevel continuous time series with Chebyshev coefficients*:
-parameterizing general function fitting (with Philip Greengard)
+parameterizing general function fitting; with Philip Greengard
 
-* *Data coding and crowdsourcing*: continuing my work on crowdsourcing
-  to account for item difficulty and multivariate responses (I've
-  worked on this problem with many people over time including
-  Breck Baldwin, Mitzi Morris, Becky Passonneau, Massimo Poesio, and
-  Silviu Paun) including everything from statistical inference to
-  tag-a-little/learn-a-little interactive interfaces.
+* *Data coding and crowdsourcing*:
+    - *difficulty*: continuing my work on crowdsourcing
+	to account for item difficulty using IRT-like models
+	- *multivariate response*: extend binary IRT-like model of difficulty
+    - *deep neural networks*: would like to find a way to train neural
+      nets to evaluate the effect of regularization
 
 * *Soil carbon modeling*: continuing work on compartmental ODEs for
   soil carbon sequestration and respiration, adapting to enzyme models
