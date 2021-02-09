@@ -10,15 +10,11 @@ author_profile: true
 If you'd like to get involved in one of these projects or have another project in mind, please let me know.  My resarch is in computational statistics algorithms and applied statistics methodology. I work on development for Stan's probabilistic programming language and automatic differentiation library.
 
 # Algorithms
-
 ### Parallel Hamiltonian Monte Carlo
 
 HMC sampling is embarassingly parallelizable after stationarity;  the sequential bottlenecks are finding the first reasonable draw and adapting to posterior covariance.
-
 * *Pathfinder*: parallel algorithm to find first reasonable draw; with Lu Zhang, Ben Bales, Aki Vehtari, Andrew Gelman
-
 * *Parallel covariance adaptation*: needs engineering for Stan; led by Ben Bales, Yi Zhang
-
 * *Embarrassingly parallel MCMC*:  trivial given random draw and adaptation
 
 
@@ -28,9 +24,6 @@ HMC sampling is embarassingly parallelizable after stationarity;  the sequential
 
 
 # Stan
-
-My main development project is Stan, where I'm primarily involved with the
-language design and automatic differentiation library.
 
 ### Language design
 
