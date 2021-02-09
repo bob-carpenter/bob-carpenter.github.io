@@ -18,7 +18,7 @@ HMC sampling is embarassingly parallelizable after stationarity;  the sequential
 
 ### Integrators for stiff Hamiltonains
 The potential energy field induced by the negative log posterior can have varying curvature beyond the ability of a Euclidean metric to compensate, inducing stiffness in the leapfrog inegrator and causing HMC to mix poorly.
-* *stiff integrators* for Hamiltonian Monte Carlo;  initially exploring variable stepsize leapfrog and implicit midpoint integrators; with Chriag Modi, Alex Barnett
+* *integrators for stiff Hamiltonians*: initially exploring variable stepsize leapfrog and implicit midpoint integrators; with Chriag Modi, Alex Barnett
 
 
 ## Stan
