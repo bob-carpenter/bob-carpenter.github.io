@@ -7,28 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-Almost all of my projects are cooperative; if you'd like to get
-involved in one of these projects or have another project in mind,
-please let me know.  My resarch focus is in algorithms and
-methodology. My development focus is in Stan's language and automatic
-differentiation library.
+If you'd like to get involved in one of these projects or have another project in mind, please let me know.  My resarch is in computational statistics algorithms and applied statistics methodology. I work on development for Stan's probabilistic programming language and automatic differentiation library.
 
-## Algorithms
+# Algorithms
 
-#### Parallel Hamiltonian Monte Carlo
+### Parallel Hamiltonian Monte Carlo
+
+HMC sampling is embarassingly parallelizable after stationarity;  the sequential bottlenecks are finding the first reasonable draw and adapting to posterior covariance.
 
 * *Pathfinder*: parallel algorithm to find first reasonable draw; with Lu Zhang, Ben Bales, Aki Vehtari, Andrew Gelman
 
 * *Parallel covariance adaptation*: needs engineering for Stan; led by Ben Bales, Yi Zhang
 
-* *Embarrassingly parallel MCMC*: needs to be engineered and evaluated on actual hardware
+* *Embarrassingly parallel MCMC*:  trivial given random draw and adaptation
 
-#### Integrators for stiff Hamiltonains
+
+### Integrators for stiff Hamiltonains
 
 * variable stepsize leapfrog and implicit midpoint integrators; with Chriag Modi, Alex Barnett
 
 
-## Stan
+# Stan
 
 My main development project is Stan, where I'm primarily involved with the
 language design and automatic differentiation library.
