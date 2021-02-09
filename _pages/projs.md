@@ -7,23 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-Almost all of my projects are cooperative;  if you'd like to get
+Almost all of my projects are cooperative; if you'd like to get
 involved in one of these projects or have another project in mind,
-please let me know.
+please let me know.  My resarch focus is in algorithms and
+methodology. My development focus is in Stan's language and automatic
+differentiation library.
 
 ## Algorithms
 
-My main research is in algorithms.
+#### Parallel Hamiltonian Monte Carlo
 
-* Parallel Hamiltonian Monte Carlo
-    * *Pathfinder*: parallel algorithm to find first reasonable draw;
-      with Lu Zhang, Ben Bales, Aki Vehtari, Andrew Gelman
-    * *parallel covariance adaptation*: needs engineering for Stan; led by Ben Bales, Yi Zhang
-	* *embarrassingly parallel MCMC*: needs to be engineered and
-      evaluated on actual hardware
+* *Pathfinder*: parallel algorithm to find first reasonable draw; with Lu Zhang, Ben Bales, Aki Vehtari, Andrew Gelman
 
-* *Hamiltonian integrators* for stiff and oscillatory Hamiltonians; with Chirag Modi,
-  Alex Barnett
+* *Parallel covariance adaptation*: needs engineering for Stan; led by Ben Bales, Yi Zhang
+
+* *Embarrassingly parallel MCMC*: needs to be engineered and evaluated on actual hardware
+
+#### Integrators for stiff Hamiltonains
+
+* variable stepsize leapfrog and implicit midpoint integrators; with Chriag Modi, Alex Barnett
 
 
 ## Stan
