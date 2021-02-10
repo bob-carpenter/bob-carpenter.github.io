@@ -5,20 +5,20 @@ permalink: /projs/
 author_profile: true
 ---
 {% include base_path %}
-If you'd like to get involved in one of these projects or have another project in mind, please let me know.  My resarch is in computational statistics algorithms and applied statistics methodology. I work on development for Stan's probabilistic programming language and automatic differentiation library.
+If you'd like to get involved in one of these projects or have another project in mind, please let me know.  My research is in computational statistics algorithms and applied statistics methodology. I work on development for Stan's probabilistic programming language and automatic differentiation library.
 
 
 ## Algorithms
 ### Parallel Hamiltonian Monte Carlo
-HMC sampling is embarassingly parallelizable after stationarity;  the sequential bottlenecks are finding the first reasonable draw and adapting to posterior covariance.
+HMC sampling is embarrassingly parallelizable after stationarity;  the sequential bottlenecks are finding the first reasonable draw and adapting to posterior covariance.
 * *Pathfinder*: parallel algorithm to find first reasonable draw; with Lu Zhang, Ben Bales, Aki Vehtari, Andrew Gelman
 * *parallel covariance adaptation*: needs engineering for Stan; led by Ben Bales, Yi Zhang
 * *embarrassingly parallel MCMC*:  trivial given random draw and adaptation
 
 
-### Integrators for stiff Hamiltonains
-The potential energy field induced by the negative log posterior can have varying curvature beyond the ability of a Euclidean metric to compensate, inducing stiffness in the leapfrog inegrator and causing HMC to mix poorly.
-* *integrators for stiff Hamiltonians*: initially exploring variable stepsize leapfrog and implicit midpoint integrators; with Chriag Modi, Alex Barnett
+### Integrators for stiff Hamiltonians
+The potential energy field induced by the negative log posterior can have varying curvature beyond the ability of a Euclidean metric to compensate, inducing stiffness in the leapfrog integrator and causing HMC to mix poorly.
+* *integrators for stiff Hamiltonians*: initially exploring variable stepsize leapfrog and implicit midpoint integrators; with Chirag Modi, Alex Barnett
 
 
 ## Stan

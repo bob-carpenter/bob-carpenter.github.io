@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior research scientist at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/).  My resarch interests are in computational statistics, simulation, applied statistics methodology, and in aplying Bayesian statistics to science.   I work primarily on [Stan](https://mc-stan.org/), a probabilistic programming language and inference engine.
+I'm a senior research scientist at [Flatiron Institute](https://www.simonsfoundation.org/flatiron/).  My research interests are in computational statistics, simulation, applied statistics methodology, and in applying Bayesian statistics to science.   I work primarily on [Stan](https://mc-stan.org/), a probabilistic programming language and inference engine.
 
 I previously spent ten years as a research scientist at Columbia Univeristy, where I co-founded the Stan project, designed its programming language and automatic differentiation library, answered user and developer queries, and wrote code, documentation, and research grants.  Stan wouldn't be where it is today without its amazing crew of developers and supportive community of users and educators.
 
